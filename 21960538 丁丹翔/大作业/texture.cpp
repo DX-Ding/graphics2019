@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS  
 #include<stdio.h>  
 #include<windows.h>  
-#include"game0.h"  
+#include"game.h"  
 #define BITMAP_ID 0x4D42   
 
 
